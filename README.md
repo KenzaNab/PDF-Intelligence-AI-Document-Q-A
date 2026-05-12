@@ -23,5 +23,3 @@ cd frontend
 npm install && npm start
 ```
 
-## License
-MIT — Kenza Nabaghi
